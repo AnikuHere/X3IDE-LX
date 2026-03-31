@@ -1,5 +1,5 @@
 # X3IDE - Original version & LX Fork
- A fork of X3IDE by DeniusGG thats  "remade" for Linux-based systems. 
+ A fork of X3IDE by DeniusGG thats  "remade" for Linux-based systems, with some teeny-tiny sprinkles of modification to make your life easier.
 
 # Current state of development
 SemiActive - Development is sort of underway, depends on the original developer (Raven Corvidae).
@@ -14,8 +14,8 @@ SemiActive - Development is sort of underway, depends on the original developer 
  2) Allow the .PY file to be executed as program: chmod +x /path/to/your/x3ide/.py/file
  3) Double click the .py file and done, now you can use the app.
 
-
-
+# Compatibility with Windows
+Partially, but stuff like saving files and other features may/may not be broken. idk check it yourself
 
 
 
