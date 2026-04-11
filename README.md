@@ -5,7 +5,13 @@
 SemiActive - Development is sort of underway, depends on the original developer (Raven Corvidae).
 
 # Current use state
- The UI for the app isnt supported on Linux - it is already very buggy.
+ The UI for the app is now supported on Linux.
+
+# System requirements
+
+system - Debian-based distrobutions are optimized most for this program.
+ram - 2GB minimum (very slow)
+chip - higher than >Intel pentium
 
 # Installation
  The Linux version does not have a installer. 
